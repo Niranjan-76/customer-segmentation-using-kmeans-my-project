@@ -75,15 +75,16 @@ streamlit run app.py
 
 ## 📷 Screenshot
 
-![screenshot](screenshot.png)
+![screenshot](<img width="782" height="845" alt="image" src="https://github.com/user-attachments/assets/ae9d4b09-df09-466f-abda-3834c15090ae" />
+)
 
 ---
 
 ## ✍️ Author
 
 - **Niranjan S**
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Portfolio](https://your-portfolio-link.com) *(optional)*
+- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/niranjan53/))
+
 
 ---
 
