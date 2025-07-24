@@ -75,7 +75,7 @@ streamlit run app.py
 
 ## 📷 Screenshot
 
-![screenshot](<img width="782" height="845" alt="image" src="https://github.com/user-attachments/assets/ae9d4b09-df09-466f-abda-3834c15090ae" />
+![screenshot](<img width="782" height="845" alt="Screenshot 2025-07-24 163710" src="https://github.com/user-attachments/assets/cd7dcfca-8630-44bf-aafd-7a4e7effe752" />
 )
 
 ---
@@ -83,7 +83,7 @@ streamlit run app.py
 ## ✍️ Author
 
 - **Niranjan S**
-- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/niranjan53/))
+- [LinkedIn](https://www.linkedin.com/in/niranjan53/)
 
 
 ---
